@@ -12,7 +12,7 @@ html{
     overflow-x: hidden;
 }
 body{
-    background-color: light-blue;
+    background-color: #111;
     overflow: hidden;
     padding-left: 35rem;
 }
@@ -63,7 +63,7 @@ body{
     color: #fff;
 }
 .pro span{
-    color: pink;
+    color: Purple;
 }
 header{
     position:fixed;
